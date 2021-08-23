@@ -11,6 +11,7 @@
 
   imports = [
     ../role/utils
+    ../role/utils/text
     ../program/vault
     ../role/dev/yaml
     ../role/dev/json

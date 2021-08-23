@@ -46,6 +46,7 @@
       lazygit
       lorri # nix-shell replacement
       lsof
+      pandoc # convert markup files
       ps
       ripgrep
       rsync
